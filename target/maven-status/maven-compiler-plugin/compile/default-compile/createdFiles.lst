@@ -1,0 +1,10 @@
+com\MinTrio\SkillSphereAI\model\Mentor.class
+com\MinTrio\SkillSphereAI\model\Student.class
+com\MinTrio\SkillSphereAI\controller\StudentController.class
+com\MinTrio\SkillSphereAI\controller\MentorController.class
+com\MinTrio\SkillSphereAI\repositry\StudentRepositry.class
+com\MinTrio\SkillSphereAI\repositry\MentorRepositry.class
+com\MinTrio\SkillSphereAI\SkillSphereAiApplication.class
+com\MinTrio\SkillSphereAI\service\MentorService.class
+com\MinTrio\SkillSphereAI\service\StudentService.class
+com\MinTrio\SkillSphereAI\model\Course.class
