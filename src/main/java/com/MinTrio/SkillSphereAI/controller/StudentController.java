@@ -15,7 +15,7 @@ public class StudentController {
     }
 
     @PostMapping("/addStudent")
-    public void addStudent(@PathVariable Student student){
+    public void addStudent(@RequestBody Student student){
         studentService.addStudent(student);
     }
 }
